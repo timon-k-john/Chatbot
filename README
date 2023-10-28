@@ -1,4 +1,4 @@
 The following folder consists of the code for a protoype model of a subsation asset maintenance chatbot.
 We can integrated open ai to accept user requests and give answer to general queries that the user has. 
 This is just a prototype model and for our final project, we will implement our own database which will have details on multiple substation assets.
-Our final chatbot will be able to answer specific user queries and will finally be able to help the customer. 
+Our final chatbot will be able to answer specific user queries from the customer which will help the user to know more about their product and help them resolve issues.
